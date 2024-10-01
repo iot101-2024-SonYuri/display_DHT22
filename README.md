@@ -1,1 +1,6 @@
+2021146017 손유리 과제 제출합니다
+![image](https://github.com/user-attachments/assets/238e0343-44f1-4dbd-83ad-d18f390c59d6)
+
+업로드 후 lcd 보드 리부팅이 안되어서 영상 제출합니다
+https://github.com/user-attachments/assets/fd3d84ef-6d40-4b8c-82fb-411d75bbc45d
 
